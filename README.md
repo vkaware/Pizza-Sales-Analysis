@@ -1,4 +1,3 @@
-
 # 🍕 Pizza Sales Analysis Dashboard
 
 This project provides a comprehensive sales analysis of a pizza company using Power BI. It helps uncover critical business insights such as best-selling pizzas, sales trends, and customer ordering behavior.
@@ -26,7 +25,7 @@ The Power BI dashboard is divided into **two main report pages**:
 - **By Category:** Classic > Supreme > Veggie > Chicken
 - **By Size:** Large > Medium > Small...
 
-![Sales Trends]([./Pizza%20Home.png](https://github.com/vkaware/Pizza-Sales-Analysis/blob/main/Pizza%20Home.png))
+![Home]([https://github.com/vkaware/Blinkit_Sales_Analysis_Dashboard/blob/main/Blinkit_Sales.png](https://github.com/vkaware/Pizza-Sales-Analysis/blob/main/Pizza%20Home.png))
 
 ---
 
@@ -55,7 +54,7 @@ The Power BI dashboard is divided into **two main report pages**:
 ### 📌 Bottom 5 Pizzas by:
 - **Revenue/Quantity/Orders:** Spinach Supreme, Brie Carre, etc.
 
-![Best & Wrost Sales](https://github.com/vkaware/Blinkit_Sales_Analysis_Dashboard/blob/main/Blinkit_Sales.png)
+![Best & Wrost Sales]([https://github.com/vkaware/Blinkit_Sales_Analysis_Dashboard/blob/main/Blinkit_Sales.png](https://github.com/vkaware/Pizza-Sales-Analysis/blob/main/Best%20%26%20Wrost%20Sales.png))
 ---
 
 ## 🧰 Tech Stack
