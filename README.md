@@ -2,6 +2,31 @@
 
 This project provides a comprehensive sales analysis of a pizza company using Power BI. It helps uncover critical business insights such as best-selling pizzas, sales trends, and customer ordering behavior.
 
+## 🧰 Tech Stack
+
+- **Power BI**: For building dashboards and reports
+- **Excel**: For data cleaning and pre-processing
+
+---
+
+## 🎯 Objectives
+
+- Analyze the performance of different pizza types
+- Identify top-performing and underperforming products
+- Discover customer preferences based on order patterns
+- Recommend actionable strategies for increasing sales
+
+---
+
+## 🗝️ Key Insights
+
+- Focus marketing on **Classic** pizzas and **Large** sizes
+- Promote **Thai Chicken** and **Classic Deluxe** as top sellers
+- Reevaluate or improve **Brie Carre** and **Spinach Supreme**
+- Increase staffing or promotions during **Fridays, Saturdays**, and **July/January**
+
+---
+
 ## 📊 Dashboard Overview
 
 The Power BI dashboard is divided into **two main report pages**:
@@ -56,37 +81,6 @@ The Power BI dashboard is divided into **two main report pages**:
 
 ![Best & Wrost Sales]([https://github.com/vkaware/Blinkit_Sales_Analysis_Dashboard/blob/main/Blinkit_Sales.png](https://github.com/vkaware/Pizza-Sales-Analysis/blob/main/Best%20%26%20Wrost%20Sales.png))
 ---
-
-## 🧰 Tech Stack
-
-- **Power BI**: For building dashboards and reports
-- **Excel**: For data cleaning and pre-processing
-
----
-
-## 🎯 Objectives
-
-- Analyze the performance of different pizza types
-- Identify top-performing and underperforming products
-- Discover customer preferences based on order patterns
-- Recommend actionable strategies for increasing sales
-
----
-
-## 🗝️ Key Insights
-
-- Focus marketing on **Classic** pizzas and **Large** sizes
-- Promote **Thai Chicken** and **Classic Deluxe** as top sellers
-- Reevaluate or improve **Brie Carre** and **Spinach Supreme**
-- Increase staffing or promotions during **Fridays, Saturdays**, and **July/January**
-
----
-
-## ✅ How to Use
-
-1. Download the Power BI `.pbix` file (not included here for privacy).
-2. Connect it to your dataset or use the shared one.
-3. Interact with filters like **Pizza Category** and **Date Range** to explore insights.
 
 ---
 
