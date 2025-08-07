@@ -55,8 +55,7 @@ The Power BI dashboard is divided into **two main report pages**:
 ### 📌 Bottom 5 Pizzas by:
 - **Revenue/Quantity/Orders:** Spinach Supreme, Brie Carre, etc.
 
-![Best & Worst Sellers]([./Best%20%26%20Wrost%20Sales.png](https://github.com/vkaware/Pizza-Sales-Analysis/blob/main/Best%20%26%20Wrost%20Sales.png))
-
+![Best & Wrost Sales](https://github.com/vkaware/Blinkit_Sales_Analysis_Dashboard/blob/main/Blinkit_Sales.png)
 ---
 
 ## 🧰 Tech Stack
