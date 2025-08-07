@@ -50,7 +50,7 @@ The Power BI dashboard is divided into **two main report pages**:
 - **By Category:** Classic > Supreme > Veggie > Chicken
 - **By Size:** Large > Medium > Small...
 
-![Home]([https://github.com/vkaware/Blinkit_Sales_Analysis_Dashboard/blob/main/Blinkit_Sales.png](https://github.com/vkaware/Pizza-Sales-Analysis/blob/main/Pizza%20Home.png))
+![Home](https://github.com/vkaware/Pizza-Sales-Analysis/blob/main/Pizza%20Home.png)
 
 ---
 
@@ -81,9 +81,3 @@ The Power BI dashboard is divided into **two main report pages**:
 
 ![Best & Wrost Sales](https://github.com/vkaware/Pizza-Sales-Analysis/blob/main/Best%20%26%20Wrost%20Sales.png)
 ---
-
----
-
-## 📬 Contact
-
-Feel free to connect on [LinkedIn](https://www.linkedin.com) or reach out for collaborations!
