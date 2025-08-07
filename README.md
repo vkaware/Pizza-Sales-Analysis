@@ -5,7 +5,7 @@ This project provides a comprehensive sales analysis of a pizza company using Po
 ## 🧰 Tech Stack
 
 - **Power BI**: For building dashboards and reports
-- **Excel**: For data cleaning and pre-processing
+- **SQL**: For data cleaning and pre-processing
 
 ---
 
